@@ -16,9 +16,9 @@ FILE_DA_CONSEGNARE=Makefile chatty.c message.h ops.h stats.h config.h \
 			script.sh test_fdqueue.c test_groups.c test_hash.c test_queue.c \
 			testconf.sh testfile.sh testleaks.sh teststress.sh
 # inserire il nome del tarball: es. NinoBixio
-TARNAME=DavideMontagnoBozzone
+TARNAME=NO_NAME
 # inserice il corso di appartenenza: CorsoA oppure CorsoB
-CORSO=CorsoA
+CORSO=NO_COURSE
 #
 ###########################################################
 
